@@ -1,2 +1,2 @@
-# Housing Price Prediction Boston
-Analysed housing price samples in Boston using XGBLinear ( Extreme Gradient Boosting) model. The model was cross-validated using 10 folds and tuned using the grid search method. The model had a high accuracy in predicting future housing prices in the Boston area.
+# Statistical analysis of serial killers
+Using hypothesis testing and the R programming language for data processing and visualisation, the study observed patterns of serial killers from the early 1900s to identify the reason behind the early commencement of killings. The hypothesis tested whether the mean age of killers is 27 years or not to test whether all serial killers start at a young age. Presented findings to relevant stakeholders, advancing understanding of factors driving serial killer behaviour.
